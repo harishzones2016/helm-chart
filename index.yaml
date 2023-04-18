@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  harish1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-18T18:38:24.437068667Z"
+    description: A Helm chart for Kubernetes
+    digest: 5ff4975aa7eaeae2dd644ef708797790dcd6904deb599dbed1fc6c822847b212
+    name: harish1
+    type: application
+    urls:
+    - harish1-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-18T18:38:24.436551922Z"
